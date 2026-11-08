@@ -22,16 +22,3 @@ A beautifully crafted memory gallery with a surprise intro page. Perfect for che
 │── README.md           # This file
 ```
 
-## 🚀 How to Use
-1️⃣ **Download or clone this repo:**  
-```bash
-git clone https://github.com/ziddi-shop/love-you.git
-```
-2️⃣ **Place your own images in the folder.**  
-3️⃣ **Replace `song.mp3` with your favorite track.**  
-4️⃣ **Open `index.html` in a browser & enjoy!**  
-
-## ❤️ Credits
-💖 Made with love by **Ziddi** 💖
-
-**[👉 Click here to visit the live version](https://ziddi-shop.github.io/love-you/)** 
